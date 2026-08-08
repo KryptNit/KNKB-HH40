@@ -4,7 +4,9 @@ A handwired RP2040 Zero - 40% keyboard case featuring a classic HHKB-inspired la
 Features:
 
 Layout: 40% HHKB style
+
 Mounting: Gasket bean mount for controlled flex
+
 Keymap: Customizable keymap - QMK/Vial/VIA
 
 BOM
