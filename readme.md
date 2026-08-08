@@ -1,4 +1,4 @@
-
+<img width="2880" height="2160" alt="image10" src="https://github.com/user-attachments/assets/80dbe7bd-6b92-4410-a479-b41ff60e2206" /><img width="2880" height="2160" alt="image6" src="https://github.com/user-attachments/assets/4db5163e-49fd-4dcc-b98c-48cfdbbe938a" />
 A handwired RP2040 Zero - 40% keyboard case featuring a classic HHKB-inspired layout with corner blockers. Designed around a gasket bean mounting system to deliver a cushioned typing feel.
 
 Features:
@@ -22,6 +22,17 @@ BOM
 |Bolt M2.5x16 |4|
 |Heat set Insert M2.5x2 |4|
 |Bolt M2x5 (for RP2040 Holder) |2|
+
+Assembly
+<img width="2880" height="2160" alt="image3" src="https://github.com/user-attachments/assets/ea0a0c22-7935-42dc-9d1a-4380ad23d048" />
+<img width="2880" height="2160" alt="image4" src="https://github.com/user-attachments/assets/68d03578-3b30-42c5-83e5-a8c2d457a19b" />
+<img width="2880" height="2160" alt="image5" src="https://github.com/user-attachments/assets/83fe4ca3-f1e0-44f8-afec-7341d5c7ab08" />
+<img width="2880" height="2160" alt="image6" src="https://github.com/user-attachments/assets/c44050b6-45f4-46d3-9e35-4ee787962318" />
+<img width="2880" height="2160" alt="image7" src="https://github.com/user-attachments/assets/3982a410-a05a-4c10-9a56-3beceeb29196" />
+<img width="2880" height="2160" alt="image8" src="https://github.com/user-attachments/assets/66f421f0-406c-4336-85f3-bcf20357c6f2" />
+<img width="2880" height="2160" alt="image9" src="https://github.com/user-attachments/assets/769a651b-b5f6-4e00-a65d-d78e58187dd9" />
+<img width="2880" height="2160" alt="image10" src="https://github.com/user-attachments/assets/ad957549-5355-4326-b131-d471ecdaa3a1" />
+
 
 
 * Keyboard Maintainer: [KryptNit](https://github.com/KryptNit)
