@@ -1,8 +1,27 @@
-# hh40
 
-![hh40](imgur.com image replace me!)
+A handwired RP2040 Zero - 40% keyboard case featuring a classic HHKB-inspired layout with corner blockers. Designed around a gasket bean mounting system to deliver a cushioned typing feel.
 
-*A short description of the keyboard/project*
+Features:
+
+Layout: 40% HHKB style
+
+Mounting: Gasket bean mount for controlled flex
+
+BOM
+|Items|Qty|
+|:---|:---:|
+|Mx Switches |40|
+|Diode 1N4148 |40|
+|Plate Mount Stabilizer |2|
+|RP2040 Zero |1|
+|Copper Wire | |
+|Heat Shrink Tube | |
+|AWG30 Wire | |
+|[3D Printed Case and Swich Plate](https://makerworld.com/en/models/1412694-minimal-macropad#profileId-1466694)|1 Set|
+|Bolt M2.5x16 |4|
+|Heat set Insert M2.5x2 |4|
+|Bolt M2x5 (for RP2040 Holder) |2|
+
 
 * Keyboard Maintainer: [KryptNit](https://github.com/KryptNit)
 * Hardware Supported: *The PCBs, controllers supported*
