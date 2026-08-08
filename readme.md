@@ -19,8 +19,8 @@ BOM
 |Copper Wire | |
 |Heat Shrink Tube | |
 |AWG30 Wire | |
-|[3D Printed Case and Swich Plate](https://makerworld.com/en/models/1412694-minimal-macropad#profileId-1466694)|1 Set|
-|[3D Printed Gasket beans (TPU)](https://makerworld.com/en/models/1412694-minimal-macropad#profileId-1466694)|4|
+|[3D Printed Case and Swich Plate](https://makerworld.com/en/models/3146794-knkb-hh40#profileId-3553861)|1 Set|
+|[3D Printed Gasket beans (TPU)](https://makerworld.com/en/models/3146794-knkb-hh40#profileId-3553861)|4|
 |Bolt M2.5x16 |4|
 |Heat set Insert M2.5x2 |4|
 |Bolt M2x5 (for RP2040 Holder) |2|
