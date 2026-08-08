@@ -25,7 +25,6 @@ BOM
 
 Assembly
 <img width="2880" height="2160" alt="image3" src="https://github.com/user-attachments/assets/ea0a0c22-7935-42dc-9d1a-4380ad23d048" />
-<img width="2880" height="2160" alt="image4" src="https://github.com/user-attachments/assets/68d03578-3b30-42c5-83e5-a8c2d457a19b" />
 <img width="2880" height="2160" alt="image5" src="https://github.com/user-attachments/assets/83fe4ca3-f1e0-44f8-afec-7341d5c7ab08" />
 <img width="2880" height="2160" alt="image6" src="https://github.com/user-attachments/assets/c44050b6-45f4-46d3-9e35-4ee787962318" />
 <img width="2880" height="2160" alt="image7" src="https://github.com/user-attachments/assets/3982a410-a05a-4c10-9a56-3beceeb29196" />
