@@ -1,4 +1,4 @@
-<img width="2880" height="2160" alt="image10" src="https://github.com/user-attachments/assets/80dbe7bd-6b92-4410-a479-b41ff60e2206" /><img width="2880" height="2160" alt="image6" src="https://github.com/user-attachments/assets/4db5163e-49fd-4dcc-b98c-48cfdbbe938a" />
+
 A handwired RP2040 Zero - 40% keyboard case featuring a classic HHKB-inspired layout with corner blockers. Designed around a gasket bean mounting system to deliver a cushioned typing feel.
 
 Features:
