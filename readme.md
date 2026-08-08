@@ -23,7 +23,8 @@ BOM
 |Heat set Insert M2.5x2 |4|
 |Bolt M2x5 (for RP2040 Holder) |2|
 
-Assembly
+Assembly Steps:
+
 <img width="2880" height="2160" alt="image3" src="https://github.com/user-attachments/assets/ea0a0c22-7935-42dc-9d1a-4380ad23d048" />
 <img width="2880" height="2160" alt="image5" src="https://github.com/user-attachments/assets/83fe4ca3-f1e0-44f8-afec-7341d5c7ab08" />
 <img width="2880" height="2160" alt="image7" src="https://github.com/user-attachments/assets/3982a410-a05a-4c10-9a56-3beceeb29196" />
@@ -31,6 +32,7 @@ Assembly
 <img width="2880" height="2160" alt="image8" src="https://github.com/user-attachments/assets/66f421f0-406c-4336-85f3-bcf20357c6f2" />
 <img width="2880" height="2160" alt="image9" src="https://github.com/user-attachments/assets/769a651b-b5f6-4e00-a65d-d78e58187dd9" />
 <img width="2880" height="2160" alt="image10" src="https://github.com/user-attachments/assets/ad957549-5355-4326-b131-d471ecdaa3a1" />
+<img width="2880" height="2160" alt="image11" src="https://github.com/user-attachments/assets/7894b485-1b5d-434e-8b44-65eeeab57c0c" />
 
 
 
