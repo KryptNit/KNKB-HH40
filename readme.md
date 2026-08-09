@@ -9,6 +9,8 @@ Mounting: Gasket bean mount for controlled flex
 
 Keymap: Customizable keymap - QMK/Vial/VIA
 
+<img width="1920" height="1080" alt="40 HHKB New Design v141" src="https://github.com/user-attachments/assets/fb988761-404c-4f54-b251-3f57347be1be" />
+
 BOM
 |Items|Qty|
 |:---|:---:|
